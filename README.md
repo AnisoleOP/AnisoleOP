@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anshul Kulkarni
 - 👀 I’m interested in coding in C, C++ and Python
-- 🌱 I’m currently learning in 2nd year in College of Engineering Pune
+- 🌱 I’m currently learning in 3rd year in College of Engineering Pune
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me : anshulkulkarni9@gmail.com
 
